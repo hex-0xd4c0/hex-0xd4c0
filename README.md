@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 **I AM A**
-# SUPER CREAZY VIBE CODER
+# **SUPER CREAZY VIBE CODER**
 
 <!--
 **hex-0xd4c0/hex-0xd4c0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
